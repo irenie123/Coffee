@@ -3,6 +3,7 @@
     <body>
       <p>
       <ul>
+      - Bulleted
         <li> 1 cup of milk</li>
         <li> 2 eggs</li>
         <li> 1 cup of flour</li>
