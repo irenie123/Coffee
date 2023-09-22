@@ -1,6 +1,7 @@
 # How To Cook Crepes
   ## Ingredients: 
     <body>
+      <p>
       <ul>
         <li> 1 cup of milk</li>
         <li> 2 eggs</li>
@@ -10,4 +11,5 @@
         <li> 1/4 cup of water</li>
         <li> Oil so the crepes don't stick to the pan</li>
       </ul>
+      </p>
     </body>
