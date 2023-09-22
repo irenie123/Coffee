@@ -1,6 +1,6 @@
 # How To Cook Crepes
-  <body>
-  ## Ingredients: 
+  ## Ingredients:
+    <body>
       <p>
       <ul>
       - 1 cup of milk
