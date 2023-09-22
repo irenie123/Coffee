@@ -3,7 +3,7 @@
     <body>
       <p>
       <ul>
-      - 1 cup of milk
+        <li> 1 cup of milk</li>
         <li> 1 cup of milk</li>
         <li> 2 eggs</li>
         <li> 1 cup of flour</li>
