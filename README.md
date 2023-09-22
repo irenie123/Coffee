@@ -8,6 +8,6 @@
         <li> pinch of salt</li>
         <li> 3 tbsp of butter</li>
         <li> 1/4 cup of water</li>
-        
+        <li> Oil so the crepes don't stick to the pan</li>
       </ul>
     </body>
