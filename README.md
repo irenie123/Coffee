@@ -1,6 +1,6 @@
 # How to Cook Crepes
-  [![Picture of Crepe](https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/px854773-image-kwvuxern.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=d08f63087797ae02246982455d15b252)](https://www.rawpixel.com/search/crepe?page=1&sort=curated&topic_group=_topics)<br
-Crepes are originated from France. They are a __*delicious*__ delicate dessert that can transform from *sweet* to **savory**. Some toppings to include on your crepes include: 
+  [![Picture of Crepe](https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/px854773-image-kwvuxern.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=d08f63087797ae02246982455d15b252)](https://www.rawpixel.com/search/crepe?page=1&sort=curated&topic_group=_topics)
+<br>Crepes are originated from France. They are a __*delicious*__ delicate dessert that can transform from *sweet* to **savory**. Some toppings to include on your crepes include: 
 
 *Sweet*
   - Strawberries
